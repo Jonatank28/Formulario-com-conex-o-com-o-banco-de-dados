@@ -6,5 +6,9 @@
 
 ## 📦 Pacotes usados
 
+### Front
 - Formik
 - Yupi
+
+### Back
+- express
