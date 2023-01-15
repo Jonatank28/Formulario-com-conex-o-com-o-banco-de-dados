@@ -16,6 +16,7 @@ body{
 .app{
     background-color: #8E8B82;
     border-radius: 6px;
+    width: min(350px, 95vw);
 }
 .card{
     padding: 10px;
